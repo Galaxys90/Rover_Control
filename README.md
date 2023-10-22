@@ -77,7 +77,7 @@ Par votre mail et mot de passe enregistrer sur maqiatto ainsi que le nom de vos 
 Lien pour télécharger Rover Control (fichier d'installation APK) :
 
 Mise à jour du 01/10/2022 | Version 1.0 🔁 : 
-https://drive.google.com/file/d/18Pzjy1cM97aWEXvfpUlrdgf5zOeKqGi5/view?usp=sharing
+[https://drive.google.com/file/d/18Pzjy1cM97aWEXvfpUlrdgf5zOeKqGi5/view?usp=sharing](https://drive.google.com/file/d/1571NVXsQikMKSeUuokk5FoFasz94gc6s/view?usp=share_link)
 
 🔒 Sécurité 🔒 : 
 Rover Control est garantie sans virus ✅
